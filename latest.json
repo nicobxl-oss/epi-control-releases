@@ -1,0 +1,12 @@
+{
+  "format": "epi-release-v1",
+  "version": "0.13.0",
+  "file": "epi-0.13.0.zip",
+  "sha256": "f83d160f6c3c52ee7ebb8119f6039efbcf30a85f90132f5a09395c4ada912dfb",
+  "size": 160781,
+  "published": "2026-11-13",
+  "notes": [
+    "Upload ready to push"
+  ],
+  "signature": "z7YCp4cgV7mfM0PpVcdBxs7yMvU+tJrjsDRDJTOHOEHQA3nwK+/WbU5mhlwF8pLBz9xcFKIZh/fdxBYBcY5FAQ=="
+}
